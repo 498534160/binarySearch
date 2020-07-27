@@ -1,9 +1,11 @@
 # binarySearch
 
 #安装 
+
 composer require yumo/binarysearch
 
 #如何使用
+
 $arr = [1,2,3,4,5];
 
 $obj = new BinarySearch();
