@@ -1,0 +1,22 @@
+{
+    "name": "yumo/binarysearch",
+    "description": "二分查找测试代码",
+    "type": "library",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "雨沫",
+            "email": "180705yumo@gmail.com",
+            "homepage": "https://behindyou.cn",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "yumo\\": "src/yumo/"
+        }
+    }
+}
